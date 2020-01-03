@@ -1,0 +1,12 @@
+server:
+  port: 9091
+
+netty:
+       port: 9560 #端口
+       host: 192.168.0.52
+
+
+
+logging:
+  level:
+    com.honghu: info
